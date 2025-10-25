@@ -1,0 +1,81 @@
+# ----------------------------------------
+# Python
+# ----------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+logs/
+log/
+
+# Cache
+.cache/
+*.pickle
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Data files (optional)
+data/
+datasets/
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Trained models
+models/
+checkpoints/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.sav
+
+# Results and outputs
+outputs/
+results/
+plots/
+figures/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment and dependency files (optional)
+# Comment out if you want to version them
+# requirements.txt
+# environment.yml
+
+# Colab / Kaggle
+*.ipynb_checkpoint
+*.zip
+*.tar
+*.gz
